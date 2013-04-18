@@ -19,6 +19,10 @@
     <keyboard-shortcut first-keystroke="control meta alt LEFT" />
     <keyboard-shortcut first-keystroke="control meta alt RIGHT" />
   </action>
+  <action id="QuickList.Ruby/Rails">
+    <keyboard-shortcut first-keystroke="meta alt R" />
+  </action>
+  <action id="Resume" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="control meta alt DOWN" />
   </action>
