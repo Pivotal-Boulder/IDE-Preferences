@@ -19,6 +19,10 @@
     <keyboard-shortcut first-keystroke="control meta alt LEFT" />
     <keyboard-shortcut first-keystroke="control meta alt RIGHT" />
   </action>
+  <action id="QuickList.Ruby/Rails">
+    <keyboard-shortcut first-keystroke="meta alt R" />
+  </action>
+  <action id="Resume" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="control meta alt DOWN" />
   </action>
@@ -39,6 +43,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.tasks.rake.actions.RakeTasksPopupAction">
+    <keyboard-shortcut first-keystroke="alt R" />
   </action>
 </keymap>
 
