@@ -20,3 +20,4 @@ $ ln -sf ~/workspace/IDE-Preferences/IntelliJKeymap.xml
 ```
 
 They are using the same format, so you can change configuration in one IDE and see it applied to the other one.
+The Keymap is called "Mac OSX 10.5 + Improved" in your keymaps settings.
