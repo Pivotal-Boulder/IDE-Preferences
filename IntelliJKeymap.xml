@@ -18,6 +18,12 @@
     <keyboard-shortcut first-keystroke="shift meta O" />
     <keyboard-shortcut first-keystroke="shift meta N" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="meta alt F3" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="shift meta alt F3" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="control meta alt LEFT" />
     <keyboard-shortcut first-keystroke="control meta alt RIGHT" />
