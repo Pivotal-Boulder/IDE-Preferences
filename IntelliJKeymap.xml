@@ -31,7 +31,9 @@
   <action id="QuickList.Ruby/Rails">
     <keyboard-shortcut first-keystroke="meta alt R" />
   </action>
-  <action id="Resume" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="F9" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="control meta alt DOWN" />
   </action>
