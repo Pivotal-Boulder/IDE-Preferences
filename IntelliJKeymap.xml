@@ -6,18 +6,6 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta W" />
   </action>
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt UP" />
-    <keyboard-shortcut first-keystroke="control W" />
-  </action>
-  <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="alt DOWN" />
-    <keyboard-shortcut first-keystroke="shift control W" />
-  </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift meta O" />
-    <keyboard-shortcut first-keystroke="shift meta N" />
-  </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta alt F3" />
   </action>
