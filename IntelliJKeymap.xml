@@ -14,6 +14,9 @@
     <keyboard-shortcut first-keystroke="alt DOWN" />
     <keyboard-shortcut first-keystroke="shift control W" />
   </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="control F3" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta O" />
     <keyboard-shortcut first-keystroke="shift meta N" />
