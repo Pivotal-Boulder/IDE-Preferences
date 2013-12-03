@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="Mac OS X 10.5+ Improved" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt F12" />
+    <keyboard-shortcut first-keystroke="control meta alt T" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="meta alt W" />
   </action>
