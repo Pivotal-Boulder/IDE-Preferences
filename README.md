@@ -7,24 +7,24 @@ Ideally clone this repo.
 Then symlink the files in your IDE preferences folder.
 For example, using RubyMine ~> 5
 ```
-cd ~/Library/Preferences/RubyMine50/keymaps
+cd ~/Library/Preferences/RubyMine60/keymaps
 ln -sf ~/workspace/IDE-Preferences/IntelliJKeymap.xml
 ```
 To add the custom macros, do the same for the macros.xml
 ```
-cd ~/Library/Preferences/RubyMine50/options
+cd ~/Library/Preferences/RubyMine60/options
 ln -sf ~/workspace/IDE-Preferences/macros.xml
 ```
 
 
 For IntelliJ 12
 ```
-cd ~/Library/Preferences/IntelliJIdea12/keymaps
+cd ~/Library/Preferences/IntelliJIdea13/keymaps
 ln -sf ~/workspace/IDE-Preferences/IntelliJKeymap.xml
 ```
 And again, do the same for the macros if you want them
 ```
-cd ~/Library/Preferences/IntelliJIdea12/options
+cd ~/Library/Preferences/IntelliJIdea13/options
 ln -sf ~/workspace/IDE-Preferences/macros.xml
 ```
 
