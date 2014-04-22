@@ -5,7 +5,7 @@ Keymappings and macros for RubyMine and IntelliJ IDEA
 
 Ideally clone this repo.
 Then symlink the files in your IDE preferences folder.
-For example, using RubyMine ~> 5
+For example, using RubyMine ~> 6
 ```
 cd ~/Library/Preferences/RubyMine60/keymaps
 ln -sf ~/workspace/IDE-Preferences/IntelliJKeymap.xml
