@@ -10,9 +10,6 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta W" />
   </action>
-  <action id="EditorScrollToCenter">
-    <keyboard-shortcut first-keystroke="shift meta M" />
-  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt UP" />
     <keyboard-shortcut first-keystroke="control W" />
