@@ -17,7 +17,7 @@ ln -sf ~/workspace/IDE-Preferences/macros.xml
 ```
 
 
-For IntelliJ 12
+For IntelliJ 13
 ```
 cd ~/Library/Preferences/IntelliJIdea13/keymaps
 ln -sf ~/workspace/IDE-Preferences/IntelliJKeymap.xml
