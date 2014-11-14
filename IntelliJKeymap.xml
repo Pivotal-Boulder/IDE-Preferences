@@ -23,7 +23,6 @@
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta O" />
-    <keyboard-shortcut first-keystroke="shift meta N" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta alt F3" />
