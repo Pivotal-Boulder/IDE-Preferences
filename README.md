@@ -17,14 +17,14 @@ ln -sf ~/workspace/IDE-Preferences/macros.xml
 ```
 
 
-For IntelliJ 13
+For IntelliJ 14
 ```
-cd ~/Library/Preferences/IntelliJIdea13/keymaps
+cd ~/Library/Preferences/IntelliJIdea14/keymaps
 ln -sf ~/workspace/IDE-Preferences/IntelliJKeymap.xml
 ```
 And again, do the same for the macros if you want them
 ```
-cd ~/Library/Preferences/IntelliJIdea13/options
+cd ~/Library/Preferences/IntelliJIdea14/options
 ln -sf ~/workspace/IDE-Preferences/macros.xml
 ```
 
