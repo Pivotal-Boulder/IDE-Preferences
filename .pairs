@@ -1,7 +1,8 @@
 pairs:
   dlb: Damien Le Berrigaud; dleberrigaud
   mg: Mike Gehard; mgehard 
+  jc: Jack Coy; jcoy
 
 email:
   prefix: pair
-  domain: pivotallabs.com
+  domain: pivotal.io
