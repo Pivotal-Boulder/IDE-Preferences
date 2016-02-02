@@ -1,32 +1,29 @@
-IDE-Preferences
+Pivotal Boulder IDE-Preferences
 ===============
 
-Keymappings and macros for RubyMine and IntelliJ IDEA
+Key mappings and macros for RubyMine, IntelliJ IDEA, and other JetBrains IDEs.
 
-Ideally clone this repo.
-Then symlink the files in your IDE preferences folder.
-For example, using RubyMine ~> 8
+## 1. Clone this repo
 ```
-cd ~/Library/Preferences/RubyMine80/keymaps
-cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/RubyMine80/keymaps
-```
-To add the custom macros, do the same for the macros.xml
-```
-cd ~/Library/Preferences/RubyMine80/options
-cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/RubyMine80/options
+cd ~/workspace
+git clone https://github.com/Pivotal-Boulder/IDE-Preferences.git
 ```
 
+## 2. Copy the files to your IDE preferences folder
 
-For IntelliJ 15
+(For RubyMine, use the path ~/Library/Preferences/RubyMine80/keymaps)
+
 ```
-cd ~/Library/Preferences/IntelliJIdea15/keymaps
 cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/IntelliJIdea15/keymaps
 ```
-And again, do the same for the macros if you want them
+
+To add the custom macros, do the same for the macros.xml:
+
+(For RubyMine, use the path ~/Library/Preferences/RubyMine80/options)
 ```
-cd ~/Library/Preferences/IntelliJIdea15/options
 cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/IntelliJIdea15/options
 ```
 
-They are using the same format, so you can change configuration in one IDE and see it applied to the other one.
-The Keymap is called "Mac OSX 10.5 + Improved" in your keymaps sett
+## 3. Select the keymap in your IDE
+
+Preferences (⌘,) -> Keymap -> Select "Mac OSX 10.5 + Improved" from the Keymaps dropdown
