@@ -14,7 +14,7 @@ git clone https://github.com/Pivotal-Boulder/IDE-Preferences.git
 (For RubyMine, use the path ~/Library/Preferences/RubyMine80/keymaps)
 
 ```
-cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/IntelliJIdea15/keymaps
+cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/IntelliJIdea15/keymaps/
 ```
 
 To add the custom macros, do the same for the macros.xml:
