@@ -28,6 +28,11 @@ cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/IntelliJIdea15/o
 
 If you have a current IDE instance open you need to restart it or figure out how to manually reload the keymap options.
 
-## 4. Select the keymap in your IDE
 
+## 3. Restart the IDE
+
+If you have a current IDE instance open you need to restart it or figure out how to manually reload the keymap options.
+
+## 4. Select the keymap in your IDE
 Preferences (⌘,) -> Keymap -> Select "Mac OSX 11.5 + Improved" from the Keymaps dropdown
+
