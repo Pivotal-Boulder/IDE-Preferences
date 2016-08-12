@@ -24,6 +24,11 @@ To add the custom macros, do the same for the macros.xml:
 cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/IntelliJIdea15/options
 ```
 
+To add JetBrains-style key mappings to Microsoft Visual Studio Code,
+```
+cp ~/workspace/IDE-Preferences/keybindings.json ~/Library/Application\ Support/Code/User/
+```
+
 ## 3. Select the keymap in your IDE
 
-Preferences (⌘,) -> Keymap -> Select "Mac OSX 10.5 + Improved" from the Keymaps dropdown
+Preferences (⌘,) -> Keymap -> Select "Mac OSX 11.5 + Improved" from the Keymaps dropdown
