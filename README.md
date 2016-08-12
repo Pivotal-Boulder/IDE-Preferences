@@ -30,4 +30,4 @@ If you have a current IDE instance open you need to restart it or figure out how
 
 ## 4. Select the keymap in your IDE
 
-Preferences (⌘,) -> Keymap -> Select "Mac OSX 10.5 + Improved" from the Keymaps dropdown
+Preferences (⌘,) -> Keymap -> Select "Mac OSX 11.5 + Improved" from the Keymaps dropdown
