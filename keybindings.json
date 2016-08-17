@@ -65,5 +65,17 @@
   "key": "alt+cmd+w",
   "command": "workbench.action.closeAllEditors",
   "when": "editorTextFocus"
+},
+{ 
+  "key": "ctrl+r",           
+  "command": "workbench.action.tasks.build" 
+},
+{ 
+  "key": "alt+tab",       
+  "command": "workbench.action.focusNextGroup" 
+},
+{ 
+  "key": "shift+alt+tab",       
+  "command": "workbench.action.focusPreviousGroup" 
 }
 ]
