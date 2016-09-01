@@ -1,81 +1,113 @@
 // Place your key bindings in this file to overwrite the defaults
-[{
-  "key": "shift+cmd+o",
-  "command": "workbench.action.quickOpen",
-  "when": "editorTextFocus"
-},
-{
-  "key": "alt+up",
-  "command": "editor.action.smartSelect.grow",
-  "when": "editorTextFocus"
-},
-{
-  "key": "alt+down",
-  "command": "editor.action.smartSelect.shrink",
-  "when": "editorTextFocus"
-},{
-  "key": "shift+alt+up",
-  "command": "editor.action.moveLinesUpAction",
-  "when": "editorTextFocus"
-},{
-  "key": "shift+alt+down",
-  "command": "editor.action.moveLinesDownAction",
-  "when": "editorTextFocus"
-},{
-  "key": "cmd+d",
-  "command": "editor.action.copyLinesDownAction",
-  "when": "editorTextFocus"
-},{
-  "key": "cmd+backspace",
-  "command": "editor.action.deleteLines",
-  "when": "editorTextFocus"
-},{
-  "key": "ctrl+cmd+alt+left",
-  "command": "workbench.action.moveActiveEditorGroupLeft",
-  "when": "editorTextFocus"
-},{
-  "key": "ctrl+cmd+alt+right",
-  "command": "workbench.action.moveActiveEditorGroupRight",
-  "when": "editorTextFocus"
-},{
-  "key": "ctrl+g",
-  "command": "editor.action.addSelectionToNextFindMatch",
-  "when": "editorTextFocus"
-},{
-  "key": "ctrl+shift+g",
-  "command": "cursorUndo",
-  "when": "editorTextFocus"
-},{
-  "key": "alt+cmd+w",
-  "command": "workbench.action.closeAllEditors",
-  "when": "editorTextFocus"
-},{
-  "key": "ctrl+cmd+alt+up",
-  "command": "workbench.action.splitEditor",
-  "when": "editorTextFocus"
-},{
-  "key": "alt+cmd+l",
-  "command": "editor.action.format",
-  "when": "editorTextFocus"
-},{
-  "key": "shift+cmd+w",
-  "command": "workbench.action.closeOtherEditors",
-  "when": "editorTextFocus"
-},{
-  "key": "alt+cmd+w",
-  "command": "workbench.action.closeAllEditors",
-  "when": "editorTextFocus"
-},
-{ 
-  "key": "ctrl+r",           
-  "command": "workbench.action.tasks.build" 
-},
-{ 
-  "key": "alt+tab",       
-  "command": "workbench.action.focusNextGroup" 
-},
-{ 
-  "key": "shift+alt+tab",       
-  "command": "workbench.action.focusPreviousGroup" 
-}
+[
+  {
+    "key": "shift+cmd+o",
+    "command": "workbench.action.quickOpen",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+up",
+    "command": "editor.action.smartSelect.grow",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+down",
+    "command": "editor.action.smartSelect.shrink",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+alt+up",
+    "command": "editor.action.moveLinesUpAction",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+alt+down",
+    "command": "editor.action.moveLinesDownAction",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+d",
+    "command": "editor.action.copyLinesDownAction",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+backspace",
+    "command": "editor.action.deleteLines",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+cmd+alt+left",
+    "command": "workbench.action.moveActiveEditorGroupLeft",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+cmd+alt+right",
+    "command": "workbench.action.moveActiveEditorGroupRight",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+g",
+    "command": "editor.action.addSelectionToNextFindMatch",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+g",
+    "command": "cursorUndo",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+cmd+w",
+    "command": "workbench.action.closeAllEditors",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+cmd+alt+up",
+    "command": "workbench.action.splitEditor",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+cmd+l",
+    "command": "editor.action.format",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+cmd+w",
+    "command": "workbench.action.closeOtherEditors",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+cmd+w",
+    "command": "workbench.action.closeAllEditors",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+r",
+    "command": "workbench.action.tasks.build"
+  },
+  {
+    "key": "alt+tab",
+    "command": "workbench.action.focusNextGroup"
+  },
+  {
+    "key": "shift+alt+tab",
+    "command": "workbench.action.focusPreviousGroup"
+  },
+  {
+    "key": "cmd+[",
+    "command": "workbench.action.navigateBack"
+  },
+  {
+    "key": "cmd+]",
+    "command": "workbench.action.navigateForward"
+  },
+  {
+    "key": "f2",
+    "command": "editor.action.marker.next",
+    "when": "editorFocus"
+  },
+  {
+    "key": "shift+f2",
+    "command": "editor.action.marker.prev",
+    "when": "editorFocus"
+  }
 ]
