@@ -15,12 +15,12 @@ git clone https://github.com/Pivotal-Boulder/IDE-Preferences.git
 Keymap:
 
 ```
-cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/IntelliJIdea2016.3.2/keymaps/
+cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/IntelliJIdea2016.3/keymaps/
 ```
 
 Macros:
 ```
-cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/IntelliJIdea2016.3.2/options
+cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/IntelliJIdea2016.3/options
 ```
 
 #### RubyMine
