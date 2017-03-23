@@ -12,28 +12,31 @@ git clone https://github.com/Pivotal-Boulder/IDE-Preferences.git
 ## 2. Copy the files to your IDE preferences folder
 
 #### IntelliJ
+
+Note: You might have to create the `options` and `keymaps` folders.
+
 Keymap:
 
 ```
-cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/IntelliJIdea2016.3/keymaps/
+cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/IntelliJIdea2017.1/keymaps/
 ```
 
 Macros:
 ```
-cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/IntelliJIdea2016.3/options
+cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/IntelliJIdea2017.1/options
 ```
 
 #### RubyMine
 
 Keymap:
 ```
-cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/RubyMine2016.2/keymaps/
+cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/RubyMine2017.1/keymaps/
 ```
 Note: you may need to create the keymaps folder
 
 Macros:
 ```
-cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/RubyMine2016.2/options
+cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/RubyMine2017.1/options
 ```
 
 #### Microsoft Visual Studio Code
