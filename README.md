@@ -13,30 +13,42 @@ git clone https://github.com/Pivotal-Boulder/IDE-Preferences.git
 
 #### IntelliJ
 
-Note: You might have to create the `options` and `keymaps` folders.
-
 Keymap:
 
 ```
-cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/IntelliJIdea2017.1/keymaps/
+mkdir -p ~/Library/Preferences/IntelliJIdea2017.3/keymaps/
+cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/IntelliJIdea2017.3/keymaps/
 ```
 
 Macros:
 ```
-cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/IntelliJIdea2017.1/options
+cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/IntelliJIdea2017.3/options/
 ```
 
 #### RubyMine
 
 Keymap:
 ```
-cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/RubyMine2017.1/keymaps/
+mkdir -p ~/Library/Preferences/RubyMine2017.3/keymaps/
+cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/RubyMine2017.3/keymaps/
 ```
-Note: you may need to create the keymaps folder
 
 Macros:
 ```
-cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/RubyMine2017.1/options
+cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/RubyMine2017.3/options/
+```
+
+#### Rider
+
+Keymap:
+```
+mkdir -p ~/Library/Preferences/Rider2017.3/keymaps/
+cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/Rider2017.3/keymaps/
+```
+
+Macros:
+```
+cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/Rider2017.3/options/
 ```
 
 #### Microsoft Visual Studio Code
