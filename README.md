@@ -63,4 +63,4 @@ cp ~/workspace/IDE-Preferences/keybindings.json ~/Library/Application\ Support/C
 If you have a current IDE instance open you'll need to restart it
 
 ## 4. Select the keymap in your IDE
-Preferences (⌘,) -> Keymap -> Select "Mac OSX 11.5 + Improved" from the Keymaps dropdown
+Preferences (⌘,) -> Keymap -> Select "Mac OSX 10.5 + Improved" from the Keymaps dropdown
