@@ -16,39 +16,39 @@ git clone https://github.com/Pivotal-Boulder/IDE-Preferences.git
 Keymap:
 
 ```
-mkdir -p ~/Library/Preferences/IntelliJIdea2017.3/keymaps/
-cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/IntelliJIdea2017.3/keymaps/
+mkdir -p ~/Library/Application\ Support/JetBrains/IntelliJIdea2020.2/keymaps/
+cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Application\ Support/JetBrains/IntelliJIdea2020.2/keymaps/
 ```
 
 Macros:
 ```
-cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/IntelliJIdea2017.3/options/
+cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Application\ Support/JetBrains/IntelliJIdea2020.2/options/
 ```
 
 #### RubyMine
 
 Keymap:
 ```
-mkdir -p ~/Library/Preferences/RubyMine2017.3/keymaps/
-cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/RubyMine2017.3/keymaps/
+mkdir -p ~/Library/Application\ Support/JetBrains/RubyMine2020.2/keymaps/
+cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Application\ Support/JetBrains/RubyMine2020.2/keymaps/
 ```
 
 Macros:
 ```
-cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/RubyMine2017.3/options/
+cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Application\ Support/JetBrains/RubyMine2020.2/options/
 ```
 
 #### Rider
 
 Keymap:
 ```
-mkdir -p ~/Library/Preferences/Rider2017.3/keymaps/
-cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Preferences/Rider2017.3/keymaps/
+mkdir -p ~/Library/Application\ Support/JetBrains/Rider2020.2/keymaps/
+cp ~/workspace/IDE-Preferences/IntelliJKeymap.xml ~/Library/Application\ Support/JetBrains/Rider2020.2/keymaps/
 ```
 
 Macros:
 ```
-cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Preferences/Rider2017.3/options/
+cp ~/workspace/IDE-Preferences/macros.xml ~/Library/Application\ Support/JetBrains/Rider2020.2/options/
 ```
 
 #### Microsoft Visual Studio Code
